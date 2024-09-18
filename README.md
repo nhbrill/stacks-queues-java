@@ -1,4 +1,4 @@
-# Generic HashMap
+# Stacks and Queues in Java
 To implement an int queue and stack backed by a array and linked list.
 
 ## Required Developer Software
